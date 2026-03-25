@@ -7,8 +7,10 @@ requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=7.2.0",
     "jupyterlab>=4.5.6",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.8",
     "numerapi>=2.22.0",
+    "optuna>=4.8.0",
     "pandas>=3.0.1",
     "pip>=26.0.1",
     "pyarrow>=23.0.1",
