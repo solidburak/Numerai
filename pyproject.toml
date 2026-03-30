@@ -11,6 +11,7 @@ dependencies = [
     "jupyterlab>=4.5.6",
     "lightgbm>=4.6.0",
     "matplotlib>=3.10.8",
+    "nbdime>=4.0.4",
     "numerapi>=2.22.0",
     "optuna>=4.8.0",
     "pandas>=3.0.1",
