@@ -14,3 +14,4 @@ features.json
 train.parquet
 validation.parquet
 live.parquet
+*.csv
